@@ -1,0 +1,8 @@
+---
+GitHub: https://github.com/virtualelephant/containers/ubuntu-ansible
+Docker: https://hub.docker.com/r/virtualelephant/ubuntu-ansible/
+Reminder: 
+- Ansible roles are located in /opt/ansible/roles
+- Ansible modules are located in /opt/ansible/modules
+- Ansible logs are located in /opt/ansible/log/ansible.log
+---
